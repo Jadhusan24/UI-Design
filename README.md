@@ -6,4 +6,4 @@ Designing with Adobe XD
 ![Screenshot](./output/construction.jpg)
 
 ## [Idea From](https://github.com/keshan-spec/Design-challenge) 
-    Inspired by @keshan-spec . Please check out his page for more Designs.
+    Inspired by @keshan-spec . Check out his page for more UI-UX Design.
