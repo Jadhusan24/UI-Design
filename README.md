@@ -7,4 +7,4 @@ Designing with Adobe XD
     Inspired by @keshan-spec.. Please check it out his page for more Designs
     
     
-![Screenshot](./output/output.JPG)
+![Screenshot](./output/construction.jpg)
