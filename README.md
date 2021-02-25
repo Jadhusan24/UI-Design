@@ -7,5 +7,5 @@ Designing with Adobe XD
     Inspired by @keshan-spec . Please check out his page for more Designs.
     
  
-### construction
+### Construction
 ![Screenshot](./output/construction.jpg)
