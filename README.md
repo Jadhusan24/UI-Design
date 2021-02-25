@@ -3,7 +3,7 @@ Designing with Adobe XD
 
 ##Adobe XD 
 
-## @keshan-spec
+## [CopyRights](https://github.com/keshan-spec) 
     Inspired by @keshan-spec.. Please check it out his page for more Designs
     
     
