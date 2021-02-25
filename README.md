@@ -1,4 +1,4 @@
-# UI-UX-Design
+# UI-Design
 Designing with Adobe XD
 
 ## Adobe XD 
