@@ -8,5 +8,5 @@ Designing with Adobe XD
 ### Construction
 ![Screenshot](./output/construction.jpg)
 
-#### [Idea From](github.com/keshan-spec/Design-challenge) 
-    Inspired by @keshan-spec.
+#### [Idea From]
+    Inspired by @programmer-spec.
